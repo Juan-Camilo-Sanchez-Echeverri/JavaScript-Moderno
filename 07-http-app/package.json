@@ -11,6 +11,6 @@
 	},
 	"devDependencies": {
 		"json-server": "^0.17.3",
-		"vite": "^7.0.5"
+		"vite": "^7.0.7"
 	}
 }
