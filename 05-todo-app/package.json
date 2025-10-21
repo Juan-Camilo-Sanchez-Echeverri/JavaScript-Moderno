@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.20"
+    "vite": "^5.4.21"
   },
   "dependencies": {
     "uuid": "^9.0.0"
